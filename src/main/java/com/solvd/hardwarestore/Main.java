@@ -19,12 +19,12 @@ ProductSupplier: the one that sells the product.
 Client: the one that buys the product.
  */
 
-import com.solvd.hardwarestore.abstractclasses.Product;
+import com.solvd.hardwarestore.abstract_classes.Product;
 import com.solvd.hardwarestore.person.BigClient;
 import com.solvd.hardwarestore.person.Employee;
 import com.solvd.hardwarestore.person.ProductSupplier;
 import com.solvd.hardwarestore.products.*;
-import com.solvd.hardwarestore.readwritefile.ReadingFile;
+import com.solvd.hardwarestore.read_write_file.ReadingFile;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
